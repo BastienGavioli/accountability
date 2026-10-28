@@ -1,3 +1,7 @@
+###> IDE folder ###
+/.idea/
+/.vscode/
+###< IDE folder ###
 
 ###> symfony/framework-bundle ###
 /.env.local
